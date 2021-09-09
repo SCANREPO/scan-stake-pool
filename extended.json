@@ -1,5 +1,6 @@
 {
     "info": {
-        "url_png_icon_64x64":"https://github.com/SCANREPO/scan-stake-pool/blob/main/ScanToken%20Logo.png"
+        "url_png_icon_64x64":"https://github.com/SCANREPO/scan-stake-pool/blob/main/ScanToken%20Logo.png",
+        "url_png_logo": "https://github.com/SCANREPO/scan-stake-pool/blob/main/ScanToken%20Logo.png"
           }
 }
