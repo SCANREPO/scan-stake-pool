@@ -2,5 +2,15 @@
     "info": {
         "url_png_icon_64x64":"https://github.com/SCANREPO/scan-stake-pool/blob/main/ScanToken%20Logo.png",
         "url_png_logo": "https://github.com/SCANREPO/scan-stake-pool/blob/main/ScanToken%20Logo.png"
+        "location": "",
+        "social": {
+            "twitter_handle": "",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
           }
+    
 }
